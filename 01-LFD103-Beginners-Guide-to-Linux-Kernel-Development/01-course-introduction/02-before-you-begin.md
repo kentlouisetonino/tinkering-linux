@@ -81,7 +81,7 @@
     intellectual property rights.
 
 > - Open source code incorporated herein may have other copyright holders and
-    is used pursuant to tthe applicable open source license.
+    is used pursuant to the applicable open source license.
 
 > - Although third-party application software packages may be referenced herein,
     this is for demonstration purposes only and shall not consitute an endorsement

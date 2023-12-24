@@ -1,15 +1,14 @@
 ### The Linux Foundation
-> - `The Linux Foundation` provdes a neutral, trusted hub for developers to
+> - `The Linux Foundation` provides a neutral, trusted hub for developers to
     code, manage, and scale open technology projects.
 
 > - Founded in 2000, the Linux Foundation is supported by more than 1,000
     members and is the world's leading home for collaboration on open
     source software, open standards, open data and open hardware.
 
-> - The Linux Foundation's methodology focuses on leveraging best practices
-    focuses on leveraging best practices and addressing the needs of
-    contributors, users and solution providers to create sustainable models
-    for open collaboration.
+> - The Linux Foundation's methodology  focuses on leveraging best practices
+    and addressing the needs of contributors, users and solution providers to
+    create sustainable models for open collaboration.
 
 > - The Linux Foundation hosts Linux, the world's largest and most pervasive
     open source software project in history. It is also home to Linux creator
@@ -49,7 +48,7 @@
 
 > - They provide a forum to share and gain knowledge, help organizations identify
     software trends early to inform future technology investments, connect
-    employers withh talent, and showcase technologies and services to influential
+    employers with talent, and showcase technologies and services to influential
     open source professionals, media, and analysts around the globe.
 
 > - The Linux Foundation hosts an increasing number of events each year.
@@ -154,7 +153,7 @@ https://training.linuxfoundation.org/certification-catalog/
     department has no direct role in developing, administering, or grading certification exams.
 
 > - Enforcing this self-imposed firewall ensures that independent organizations and companies
-    can develop third party training material, geared towards helpingg test takers pass their
+    can develop third party training material, geared towards helping test takers pass their
     certification exams.
 
 > - Furthermore, it ensures thaht there are no secret `tips` (or secrets in general) that one

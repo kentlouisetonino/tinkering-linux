@@ -16,8 +16,8 @@
     run in parallel.
 
 > - A new release comes out once a every 10 to 11 weeks. Releases are time-based rather
-    than feature-based. That means releases are not held dup for features. There is no
-    set date for theses releases.
+    than feature-based. That means releases are not held up for features. There is no
+    set date for these releases.
 
 <br />
 <br />
@@ -25,7 +25,7 @@
 
 
 ### What Does the Release Cycle Look Like?
-> - While the kernel development is a continuous process, at certain pointsduring the
+> - While the kernel development is a continuous process, at certain points during the
     development, when a set of features and bug fixes are ready, a new version of the
     kernel is released.
 
@@ -33,13 +33,13 @@
 
 > - Linus Torvalds releases a new kernel and opens 2-week merge window.
 
-> - During this merge window, hhe pulls code for the next release from subsystem
+> - During this merge window, he pulls code for the next release from subsystem
     maintainers.
 
 > - Subsystem maintainers send signed git pull requests to Linux either during the
     merge window or before.
 
-> - All major new development is added to the kernel during t he merge window.
+> - All major new development is added to the kernel during the merge window.
 
 > - 10,000+ change sets (patches) get pulled into Linus's tree during these 2 weeks,
     at the end of which he releases the first release candidate, known as `rc1`.

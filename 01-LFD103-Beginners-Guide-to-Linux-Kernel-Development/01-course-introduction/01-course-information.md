@@ -12,7 +12,7 @@
 
 > - `LFD103` is designed for anyone interested in becoming a Linux Kernel
     Developer and contributor. The course aims to ease the Linux Kernel
-    Mentorhship appication process. It also serves as a resource for
+    Mentorhship application process. It also serves as a resource for
     developers from companies and communities that might not be able to
     take advantage of the mentorship program, and want to learn kernel
     development on their own; as well as a resource for experienced
