@@ -1,4 +1,4 @@
-### Welcome to LFD103!
+## Welcome to LFD103!
 > - The `Linux Kernel` is the largest component of the Linux ecosystem,
     and is charged with managing the hardware, running user programs, and
     maintaining the security and integrity of the whole system.
@@ -24,7 +24,7 @@
 
 
 
-### Course Learning Objectives
+## Course Learning Objectives
 > - The course will cover the following.
 
 ```plaintext
@@ -45,7 +45,7 @@
 
 
 
-### Instructor
+## Instructor
 > - `Shuah Khan` is a Linux Kernel Fellow at The Linux Foundation.
 
 > - She is an experienced Linux Kernel developer, maintainer, and contributor.
@@ -70,7 +70,7 @@
 
 
 
-### Course Audience and Requirements
+## Course Audience and Requirements
 
 ```plaintext
 Audience

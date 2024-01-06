@@ -1,4 +1,4 @@
-### Course Support
+## Course Support
 > - One great way to interact with peers taking this course is via the Class Forum.
 
 > - Class Forum: https://forum.linuxfoundation.org/categories/lfd103-class-forum
@@ -24,7 +24,7 @@
 
 
 
-### Course Timing
+## Course Timing
 > - This course is entirely self-paced; there is no fixed schedule for going
     through the material. You can go through the course at your own pace,
     and you will always be returned to exactly where you left off when you
@@ -49,7 +49,7 @@
 
 
 
-### Assessments
+## Assessments
 > - While not having lab exercises per se, this course is hands-on, and guides
     you through the processes involved in Linux Kernel development.
 
@@ -64,7 +64,7 @@
 
 
 
-### Course Formatting
+## Course Formatting
 > - In order to make it easier to distinguish the various types of content
     in the course, we use the color coding and formats below.
 
@@ -75,7 +75,7 @@
 
 
 
-### Copyright
+## Copyright
 > - The training materials provided or developed by The Linux Foundation in
     connection with the training services are protected by copyright and other
     intellectual property rights.

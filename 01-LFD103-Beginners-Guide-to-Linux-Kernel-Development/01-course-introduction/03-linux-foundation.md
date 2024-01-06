@@ -1,4 +1,4 @@
-### The Linux Foundation
+## The Linux Foundation
 > - `The Linux Foundation` provides a neutral, trusted hub for developers to
     code, manage, and scale open technology projects.
 
@@ -32,7 +32,7 @@
 
 
 
-### The Linux Foundation Events
+## The Linux Foundation Events
 > - Over 85,000 open source technologists and leaders worldwide gather at Linux
     Foundation events annually to share ideas, learn and collaborate.
 
@@ -75,7 +75,7 @@ Link: https://events.linuxfoundation.org/
 
 
 
-### Training Venues
+## Training Venues
 > - The Linux Foundation's training is for the community, by the community, and
     features instructors and content straight from the leaders of the Linux
     Developer community.
@@ -104,7 +104,7 @@ Link: https://events.linuxfoundation.org/
 
 
 
-### The Linux Foundation Training Offerings
+## The Linux Foundation Training Offerings
 > - Our current course offerings include:
 
 ```plaintext
@@ -120,7 +120,7 @@ Link: https://training.linuxfoundation.org/
 
 
 
-### The Linux Foundation Certification
+## The Linux Foundation Certification
 > - The Linux Foundation certifications give you a way to diffentiate yourself in a
     job market that's hungry for your skills.
 
@@ -145,7 +145,7 @@ https://training.linuxfoundation.org/certification-catalog/
 
 
 
-### Training Certification Firewall
+## Training Certification Firewall
 > - The Linux Foundation has two separate training divisions: Course Delivery and Certification.
     These two divisions are separated by a `firewall`.
 

@@ -1,4 +1,4 @@
-### About the Linux Kernel
+## About the Linux Kernel
 
 ![Tux](./image-tux.png)
 
@@ -24,7 +24,7 @@
 
 
 
-### What Does the Release Cycle Look Like?
+## What Does the Release Cycle Look Like?
 > - While the kernel development is a continuous process, at certain points during the
     development, when a set of features and bug fixes are ready, a new version of the
     kernel is released.
