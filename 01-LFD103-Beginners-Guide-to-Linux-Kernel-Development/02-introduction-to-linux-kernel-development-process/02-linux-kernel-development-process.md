@@ -47,6 +47,6 @@
 > - At this point, the release cycle moves into a bug fixes-only mode, with a series
     of `release candidate (rc)` releases from Linux.
 
-> - One week afteer `rc1` is released, `rc2` comes out; `rc3` comes out a week after,
+> - One week after `rc1` is released, `rc2` comes out; `rc3` comes out a week after,
     and so on, until all major bug fixes and regressions (if any) are resolved.
 
