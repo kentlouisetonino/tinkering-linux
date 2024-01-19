@@ -62,5 +62,5 @@
 > - This period isn'tt well advertised, and new developers might see a slow response
     from the community.
 
-![Linux Development Cycle](./image-linux-development.png)
+![Linux Development Cycle](./image-linux-development-cycle.png)
 
