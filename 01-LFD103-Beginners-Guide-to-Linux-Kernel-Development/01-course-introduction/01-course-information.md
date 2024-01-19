@@ -55,7 +55,7 @@
 
 > - She has also contributed to IOMMU, and DMA areas.
 
-> - In addition, she is helping withh stable release kernel testing.
+> - In addition, she is helping with stable release kernel testing.
 
 > - She has presented at several Linux conferences and Linux Kernel Developer keynote
     panels.
