@@ -8,3 +8,18 @@
 > - In this chapter, we will break down the patch into components and talk about the
     purpose for each one of them.
 
+<br />
+<br />
+
+
+
+## Learning Objectives
+> - By the end of this chapter, you should be able to:
+
+```plaintext
+- Understand git basics walking through the references.
+- Discuss different patch components.
+- Discuss patch commit logs.
+- Discuss tags.
+```
+
