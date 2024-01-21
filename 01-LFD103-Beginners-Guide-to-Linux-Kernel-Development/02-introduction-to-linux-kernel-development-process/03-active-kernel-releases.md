@@ -19,4 +19,17 @@ Long-term
       provide critical bug fixes for older kernel trees.
 ```
 
-> - 
+> - Stable releases are normally only maintained for a few mainline release cycles,
+    unless they are marked as long-term releases (LTR).
+
+> - A long-term release, as the name suggests, is maintained for a longer period
+    to allow multiple vendors collaborate on a specific kernel release that they
+    plan on maintaining for an extended period of time.
+
+> - You can refer to the `Linux Kernel Archives` for more details about current stable
+    and long-term release, and their release cadence.
+
+```bash
+https://www.kernel.org/category/releases.html
+```
+
