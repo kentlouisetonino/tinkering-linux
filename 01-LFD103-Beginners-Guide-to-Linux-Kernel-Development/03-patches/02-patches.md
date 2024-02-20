@@ -39,3 +39,20 @@
 
 > - Maintainers are good about giving feedback on their preferences during the patch
     review.
+
+<br />
+<br />
+
+
+## What is in a Patch?
+> - You can take a look at a real commit on the next page.
+
+> - In the screenshot we highlighted individual components, and we will walk through
+    these individual components as well. We used:
+
+```bash
+git format-patch -1 --pretty=fuller 3a38e874d70b
+```
+
+> - To generate the patch you will see on the next patch and get the complete
+    information about this patch.
