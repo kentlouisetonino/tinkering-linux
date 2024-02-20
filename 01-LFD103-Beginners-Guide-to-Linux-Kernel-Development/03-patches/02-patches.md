@@ -73,4 +73,19 @@ Patch Components
           changing it.
         - This makes it a tamperproof fast way to compare two commits using the IDs, and
           git pull requests become fast and efficient.
+
+    Commit Header
+        "major subsystem: minor area: short description of what is being changed"
+        "usbip: usbip_host: cleanup() do_rebind() return path"
+
+        - As you can see in the image provided above, the patch changes the "usbip_host"
+          driver, which is a sub-driver of the "usbip" driver.
+        - This driver falls under the drivers/usb subsystem.
+        - The author of the patch writes this information in a standard format with ":"
+          separating the major and minor subsystem fields.
+        - You will also see "/" as a separator, which would look like
+          "usbip/usbip_host: cleanup do_rebind() return path" instead of
+          "usbip: usbip_host: cleanup do_rebind() return path".
+        - Using "/" or ":" is determined by the maintainer's preference. If in doubt,
+          refer to a few patches for the subsystem for information on individual preferences.
 ```
