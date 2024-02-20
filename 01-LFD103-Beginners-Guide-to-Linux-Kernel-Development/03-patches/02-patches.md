@@ -56,3 +56,21 @@ git format-patch -1 --pretty=fuller 3a38e874d70b
 
 > - To generate the patch you will see on the next patch and get the complete
     information about this patch.
+
+<br />
+
+![Patch Commit Example](./image-patch-commit.png)
+
+<br />
+
+```plaintext
+Patch Components
+    Commit ID
+        - The auto-generated SHA 1 hash is generated from a cryptographic hash function
+          that has all the important information about the patch, such as the commit
+          date, the committer's name and email address, the log message, and more.
+        - Changing any of the information associated with the Commit ID results in
+          changing it.
+        - This makes it a tamperproof fast way to compare two commits using the IDs, and
+          git pull requests become fast and efficient.
+```
