@@ -100,4 +100,9 @@ Patch Components
         - We encourage you to take a look at a few commit logs in the kernel source
           repository to get a better understanding of the kind of information that is relevant
           to include in them.
+
+    Author
+        - This componennt provides the author's name and email information.
+        - This information can be specified when you run "git commit" or it can be configured
+          in your ".gitconfig" file, which is a very convenient way to generate commits.
 ```
