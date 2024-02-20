@@ -96,7 +96,7 @@ Patch Components
         - The example we provided shows a small change and the commit log is simple and to
           the point.
         - Commit logs can be long for patches that fix panics, as they include panic stack
-          straces.
+          traces.
         - We encourage you to take a look at a few commit logs in the kernel source
           repository to get a better understanding of the kind of information that is relevant
           to include in them.
