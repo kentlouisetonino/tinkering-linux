@@ -88,4 +88,16 @@ Patch Components
           "usbip: usbip_host: cleanup do_rebind() return path".
         - Using "/" or ":" is determined by the maintainer's preference. If in doubt,
           refer to a few patches for the subsystem for information on individual preferences.
+
+    Commit Log
+        - It provides a detailed description of the change and why the change is made.
+        - Alternate design choices if any are considered.
+        - Detailed about the testing done.
+        - The example we provided shows a small change and the commit log is simple and to
+          the point.
+        - Commit logs can be long for patches that fix panics, as they include panic stack
+          straces.
+        - We encourage you to take a look at a few commit logs in the kernel source
+          repository to get a better understanding of the kind of information that is relevant
+          to include in them.
 ```
