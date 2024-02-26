@@ -127,4 +127,11 @@ Patch Components
           date and the commit date when the patch was applied to the usb tree.
         - This is not unusual, depending on where things are in the release cycle.
         - Merge windows and quiet periods could delay a patch from being applied.
+
+    Signed-off-by
+        - Using sign-off, developers certify the patch to be their original work or have the
+          right to pass it on as an open source patch.
+        - In our example, the author signed off and then, as the usb maintainer, Greg KH
+          signed-off on the patch.
+        - https://www.kernel.org/doc/html/latest/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin
 ```
