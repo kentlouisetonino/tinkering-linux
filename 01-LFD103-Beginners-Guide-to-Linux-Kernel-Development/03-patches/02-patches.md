@@ -1,4 +1,5 @@
-## About Patches
+### ABOUT PATCHES
+#
 > - Linux kernel development is done using git, which was started by Linus Torvalds
     and is currently maintained by Junio C. Hamano.
 
@@ -44,7 +45,8 @@
 <br />
 
 
-## What is in a Patch?
+### What IS IN A PATCH
+#
 > - You can take a look at a real commit on the next page.
 
 > - In the screenshot we highlighted individual components, and we will walk through
@@ -134,4 +136,20 @@ Patch Components
         - In our example, the author signed off and then, as the usb maintainer, Greg KH
           signed-off on the patch.
         - https://www.kernel.org/doc/html/latest/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin
+```
+
+<br />
+<br />
+
+
+
+### MORE ABOUT tags
+#
+
+```plaintext
+Acked-by
+    - This tag is often used by the maintainer of the affected code when that maintainer
+      neither contributed to, nor forwarded the patch.
+    - As an example, I maintain the usbip driver and I use the Acked-by tag to ask the
+      USB maintainer to pick patches sent by other developers.
 ```
