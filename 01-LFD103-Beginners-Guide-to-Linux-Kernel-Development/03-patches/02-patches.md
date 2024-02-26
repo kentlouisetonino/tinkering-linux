@@ -105,4 +105,8 @@ Patch Components
         - This componennt provides the author's name and email information.
         - This information can be specified when you run "git commit" or it can be configured
           in your ".gitconfig" file, which is a very convenient way to generate commits.
+
+    Author Date
+        - Auto-generated commit time and date.
+        - This value comes from the system time of your computer when you create the change.
 ```
