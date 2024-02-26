@@ -122,5 +122,9 @@ Patch Components
           he pulls subsystem trees from maintainers.
 
     CommitDate
-        -
+        - Auto-generated commit time and date when Greg KH applied this patch to the usb tree.
+        - You will notice that there is a difference of 19 days between the initial commit
+          date and the commit date when the patch was applied to the usb tree.
+        - This is not unusual, depending on where things are in the release cycle.
+        - Merge windows and quiet periods could delay a patch from being applied.
 ```
