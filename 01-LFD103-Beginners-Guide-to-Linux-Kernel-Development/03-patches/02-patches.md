@@ -109,4 +109,18 @@ Patch Components
     Author Date
         - Auto-generated commit time and date.
         - This value comes from the system time of your computer when you create the change.
+
+    Commit
+        - The committer's name and email address.
+        - The committer is a maintainer or developer that applies the patch to a git
+          repository.
+        - This patch was picked up by the USB maitainer Greg Kroah-Hartman and committed to
+          the usb tree and tested prior to being included in a pull request from Greg KH to
+          Linus Torvalds.
+        - Since it was pulled, you won't see Linus as the committer for this patch.
+        - If you look at the git log, you will see several merge commits from Linus for when
+          he pulls subsystem trees from maintainers.
+
+    CommitDate
+        -
 ```
