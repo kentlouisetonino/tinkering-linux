@@ -53,3 +53,10 @@ sudo apt-get install git-email
 
 ### EMAIL CLIENT CONFIGURATION
 #
+> - You still have to configure your email client to be able to send responses, to review comments, and
+    other communication with the community.
+
+> - Things to remember:
+
+```plaintext
+```
