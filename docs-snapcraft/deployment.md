@@ -24,6 +24,6 @@ sudo systemctl restart snap.multipass.multipassd.service
 snapcraft login
 snapcraft register bus-calculator
 snapcraft clean
-snapcraft
+snapcraft --debug
 snapcraft push bus-calculator_<version-number-in-snapcraft-yaml>_amd64.snap --release=stable
 ```
