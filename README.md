@@ -1,3 +1,3 @@
 ## $\textnormal{Description}$
 
-> - All things I learned in linux kernel.
+> - All things I learned related to linux.
