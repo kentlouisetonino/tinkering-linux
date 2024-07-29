@@ -1,5 +1,5 @@
-### ABOUT PATCHES
-#
+## $\textnormal{About Patches}$
+
 > - Linux kernel development is done using git, which was started by Linus Torvalds
     and is currently maintained by Junio C. Hamano.
 
