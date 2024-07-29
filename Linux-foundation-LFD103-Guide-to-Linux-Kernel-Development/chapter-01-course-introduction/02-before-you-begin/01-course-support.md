@@ -16,5 +16,5 @@
 - To share resources and ideas related to Linux Kernel development.
 ```
 
-> - The class forum will be reviewed periodically by the Linux Foundation staff,
+> - The class forum will be reviewed periodically by the Linux Foundation staff, <br />
     but it is primarily a community resource, not an `ask the instructor` service.
