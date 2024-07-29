@@ -1,4 +1,4 @@
-## Quiz
+## $\textnormal{Quiz}$
 
 ```plaintext
 (1) A patch is a small incremental change made to the kernel.
@@ -25,4 +25,3 @@
 (8) New features go into stable releases.
         - False
 ```
-
