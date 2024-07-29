@@ -1,4 +1,5 @@
-## Introduction to Patches
+## $\textnormal{Introduction to Patches}$
+
 > - You are probably wondering what a change to the kernel looks like.
 
 > - Changes to the kernel are normally called a `patch` after the name of the historical
@@ -7,19 +8,3 @@
 
 > - In this chapter, we will break down the patch into components and talk about the
     purpose for each one of them.
-
-<br />
-<br />
-
-
-
-## Learning Objectives
-> - By the end of this chapter, you should be able to:
-
-```plaintext
-- Understand git basics walking through the references.
-- Discuss different patch components.
-- Discuss patch commit logs.
-- Discuss tags.
-```
-
